@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**NelsonALima/NelsonALima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é [Nelson Aguiar Lima](https://github.com/NelsonALima). Estou estudando ADS atualmente, e tentando na medida do possivel, aprender sobre desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🌱 Atualmente estou aprendendo [Python voltado para Back-End e Ciência de Dados].
+- 💬 Pergunte-me sobre [Ranks].
+- 📫 Como me encontrar: [Não e possivel].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NelsonALima&show_icons=true&theme=radical)
+
+## Habilidades
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+
