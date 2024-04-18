@@ -9,6 +9,9 @@ Meu nome é [Nelson Aguiar Lima](https://github.com/NelsonALima). Estou estudand
 
 ## GitHub Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NelsonALima&show_icons=true&theme=radical)
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonALima&layout=compact&theme=radical)
+
 
 ## Habilidades
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
