@@ -1,8 +1,7 @@
-### ✨ Hi there, I'm [Seu Nome]! ✨
-- Software Engineering Student at [Sua Universidade].
-- Passionate about programming, machine learning, data science, and robotics.
-- Member of [Seu Time ou Grupo] ❤️, which develops autonomous drones. In it, I work mainly with computer vision.
-- Intern at [Sua Empresa ou Projeto] 💼.
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Nelson;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+ 
+- Student at Fametro College studying Systems Analysis and Development.
+- Studying Python, Flask and Django.
 
 ## Languages e Tools 💻
 <div style="display: inline">
@@ -13,13 +12,8 @@
 </div><br/>
 
 ## GitHub Status ⚡
-<div>
-  <a href="https://github.com/NelsonALima">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonALima&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonALima&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-</div>
+
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=NelsonALima&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonALima&layout=compact&langs_count=5&theme=radical)
 
