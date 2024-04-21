@@ -1,60 +1,25 @@
-## Sobre mim
+### ✨ Hi there, I'm [Seu Nome]! ✨
+- Software Engineering Student at [Sua Universidade].
+- Passionate about programming, machine learning, data science, and robotics.
+- Member of [Seu Time ou Grupo] ❤️, which develops autonomous drones. In it, I work mainly with computer vision.
+- Intern at [Sua Empresa ou Projeto] 💼.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando ADS na FAMETRO.
-- 💼 Trabalhando como ???????? na ??????.
-- 🌱 Aprendendo mais sobre Python, Flask e Django.
+## Languages e Tools 💻
+<div style="display: inline">
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div><br/>
 
+## GitHub Status ⚡
+<div>
+  <a href="https://github.com/NelsonALima">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonALima&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonALima&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
 
-## Minhas Skills ##
-
-📋 Languages
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-📚 Frameworks, Platforms and Libraries
-
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-
-🎨 Design
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-📂 Cloud Storage
-
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-
-💾 Databases
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-🕓 Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-💻 IDEs/Editors
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-🎮 Gaming
-
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-  
-
-
-<br/>
-
-<a href="https://github.com/NelsonALima" title="Perfil do Nelson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonAlima&theme=dracula&show_icons=true" />
-</a>
