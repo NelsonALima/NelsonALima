@@ -15,9 +15,9 @@
 
 ## GitHub Status ⚡
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=NelsonALima&show_icons=true&theme=radical)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=NelsonALima&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonALima&layout=compact&langs_count=5&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonALima&layout=compact&langs_count=5&theme=radical&count_private=true)
 
 
 
