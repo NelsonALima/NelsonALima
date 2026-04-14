@@ -19,8 +19,9 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NelsonALima&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NelsonALima&layout=compact&langs_count=5&theme=radical&count_private=true&hide=html,css,javascript,markdown,text" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NelsonALima&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NelsonALima&layout=compact&langs_count=5&theme=radical&count_private=true&hide=html,css,javascript,markdown,text,dart&cache_seconds=1800" />
 </div>
 
 ---
