@@ -11,6 +11,7 @@
   <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
   <img align="center" alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" alt="Notebook" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
 ## GitHub Status ⚡
